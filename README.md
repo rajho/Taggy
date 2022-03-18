@@ -8,11 +8,11 @@ using native android code with kotlin.
 Use cases
 --------------
 * Assign a name to a tag
-* Set tag as a reminder
-* Reminders in app will be triggered in the morning at 
-  any time but must be between 7 - 10 a.m. (defauult)
-* Set a reminder hour
-
+* Assign type of tag
+  - Reminder at a specific time
+  - Timer with a specific time
+  - Open specific app in the smarthphone
+  - Open a shopping listlini
 
 Libraries Used
 --------------
